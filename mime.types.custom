@@ -20,3 +20,4 @@ text/php					php
 text/x-php					php
 multipart/x-zip                 zip
 application/x-zip-compressed                    zip
+application/octet-stream                    csv
