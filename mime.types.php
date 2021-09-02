@@ -3478,6 +3478,7 @@
     'csv' => 
     array (
       0 => 'text/csv',
+      1 => 'application/octet-stream',
     ),
     'html' => 
     array (
@@ -4249,6 +4250,7 @@
       9 => 'dump',
       10 => 'elc',
       11 => 'deploy',
+      12 => 'csv',
     ),
     'application/oda' => 
     array (
