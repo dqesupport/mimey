@@ -3479,6 +3479,7 @@
     array (
       0 => 'text/csv',
       1 => 'application/octet-stream',
+      2 => 'application/vnd.ms-excel',
     ),
     'html' => 
     array (
@@ -5287,6 +5288,7 @@
       3 => 'xlc',
       4 => 'xlt',
       5 => 'xlw',
+      6 => 'csv',
     ),
     'application/vnd.ms-excel.addin.macroenabled.12' => 
     array (
